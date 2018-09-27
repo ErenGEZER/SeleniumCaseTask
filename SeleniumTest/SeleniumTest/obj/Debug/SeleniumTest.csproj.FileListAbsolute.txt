@@ -1,0 +1,9 @@
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\Toshiba\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
